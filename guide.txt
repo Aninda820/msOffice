@@ -6,5 +6,5 @@ Office Customization tool
 COMMANDS:
 create a file name in c drive (office 2021)
 past 2 files
-c:/office 2021
+cd c:/office 2021
 setup.exe /configure configuration.xml
